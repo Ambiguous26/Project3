@@ -1,23 +1,23 @@
-// {
-//   "development": {
-//     "username": "root",
-//     "password": null,
-//     "database": "todolist",
-//     "host": "127.0.0.1",
-//     "dialect": "mysql"
-//   },
-//   "test": {
-//     "username": "root",
-//     "password": null,
-//     "database": "database_test",
-//     "host": "127.0.0.1",
-//     "dialect": "mysql"
-//   },
-//   "production": {
-//     "username": "root",
-//     "password": null,
-//     "database": "database_production",
-//     "host": "127.0.0.1",
-//     "dialect": "mysql"
-//   }
-// }
+{
+  "development": {
+    "username": "t3nfqnyp1jije7v1",
+    "password": "u5kxn5u7av1vtnzo",
+    "database": "phtn224x85wco5s4",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "t3nfqnyp1jije7v1",
+    "password": "u5kxn5u7av1vtnzo",
+    "database": "phtn224x85wco5s4",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
